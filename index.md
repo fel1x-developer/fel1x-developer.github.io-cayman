@@ -5,27 +5,16 @@ I was born in Seoul, South Korea in 2007. I can speak five languages(which I thi
 
 ## Thoughts on Programming
  - I focus on **stability**, **security**, **performance**, and **convinence**.
- - I don't prefer adwares since it interferes the users from experiencing the best UX. Instead, I advocate that paid apps and subscriptions are the best ways that a developer can earn from their apps.
+ - I don't prefer adwares since it interferes the users from experiencing the best UX. Instead, I advocate that **paid apps** and **subscriptions** are the best ways that a developer can earn from their apps.
 
-## My Current Programming Status
+## List of My Programming Languages
 
-- Bulleted
-- List
+- C
+- C++
+- Swift
+- Python
+- HTML/CSS
+- MySQL/MariaDB
 
-1. Numbered
-2. List
+I learned C first and now I think it was a smart choice since most programming languages are based on C. I then learned C++ which I use in game programming. Currently, I stopped game programming and learning SwiftUI to make a vocacbulary notebook on iOS.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fel1x-developer/fel1x-developer.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
