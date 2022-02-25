@@ -1,4 +1,4 @@
-# fel1x's Development Status
+# Minsoo Choo's Development Status
 
 ## Info
 I was born in Seoul, South Korea in 2007. I can speak five languages(which I think my greatest merit) and I am interested in various areas of programming, such as OS programming, game programming, frontend programming, backend programming, mobile programming, etc. Although I want to use my whole time in programming, I don't have much time for it because I am still a student. When I make a program, 
