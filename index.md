@@ -18,7 +18,7 @@ I was born in Seoul, South Korea in 2007. I can speak five languages(which I thi
 
 I learned C first and now I think it was a smart choice since most programming languages are based on C. I then learned C++ which I use in game programming. Currently, I stopped game programming and learning SwiftUI to make a vocacbulary notebook on iOS.
 
-## My Plans
+## My Plans (Completed Items Are Bolded)
 ### Learning New Programming Languages / APIs / Frameworks
 
  - OS Programming
@@ -27,7 +27,7 @@ I learned C first and now I think it was a smart choice since most programming l
   - observe source codes of various operating systems(i.e Linux, illumos, BSD derivatives, old kernels, Minix 3, other microkernels, XNU
  - Game Programming
   - learn game programming-related programming languages
-   - C++
+   - **C++**
    - C#
   - learn game programming-related APIs
    - OpenGL
@@ -47,3 +47,4 @@ I learned C first and now I think it was a smart choice since most programming l
    - Cryengine
    - Open 3D Engine
    - GoldSource / Source SDL
+
