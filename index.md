@@ -1,20 +1,13 @@
-# fel1x-developer's
-# Development Status
+# fel1x's Development Status
 
-You can use the [editor on GitHub](https://github.com/fel1x-developer/fel1x-developer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Info
+I was born in Seoul, South Korea in 2007. I can speak five languages(which I think my greatest merit) and I am interested in various areas of programming, such as OS programming, game programming, frontend programming, backend programming, mobile programming, etc. Although I want to use my whole time in programming, I don't have much time for it because I am still a student. When I make a program, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Thoughts on Programming
+ - I focus on **stability**, **security**, **performance**, and **convinence**.
+ - I don't prefer adwares since it interferes the users from experiencing the best UX. Instead, I advocate that paid apps and subscriptions are the best ways that a developer can earn from their apps.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+## My Current Programming Status
 
 - Bulleted
 - List
