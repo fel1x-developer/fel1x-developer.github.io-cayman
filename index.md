@@ -48,3 +48,19 @@ I learned C first and now I think it was a smart choice since most programming l
    - Open 3D Engine
    - GoldSource / Source SDL
 
+### Making Products and Contributing to Open Source Projects
+
+#### Goals of 2022
+- **update virtualization part of FreeBSD Handbook**
+- fix errors on FreeBSD doc
+- make my own SwiftUI App
+- fix FreeBSD kernel bugs
+- add features in Single Unix Specfiction v4 2018 to FreeBSD
+- improve FreeBSD Linuxulator to the latest version of linux kenel
+
+#### Goals of 2023
+- immplement things in FreeBSD Wiki Ideas page
+
+#### Other goals that will be conducted if I have enough time.
+- port Wayland to FreeBSD COMPLETELY
+- create a POSIX checking framework(maybe SUS 2018 is included)
