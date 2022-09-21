@@ -1,11 +1,8 @@
 # Minsoo Choo's Development Status
 
-## Info
-I was born in Seoul, South Korea in 2007. I can speak five languages(which I think my greatest merit) and I am interested in various areas of programming, such as OS programming, game programming, frontend programming, backend programming, mobile programming, etc. Although I want to use my whole time in programming, I don't have much time for it because I am still a student. When I make a program, 
-
 ## Thoughts on Programming
  - I focus on **stability**, **security**, **performance**, and **convinence**.
- - I don't prefer adwares since it interferes the users from experiencing the best UX. Instead, I advocate that **paid apps** and **subscriptions** are the best ways that a developer can earn from their apps.
+ - I hate adwares. Instead, I prefer **paid apps** and **subscriptions**.
 
 ## List of My Programming Languages
 
@@ -16,8 +13,6 @@ I was born in Seoul, South Korea in 2007. I can speak five languages(which I thi
 - HTML/CSS
 - MySQL/MariaDB
 
-I learned C first and now I think it was a smart choice since most programming languages are based on C. I then learned C++ which I use in game programming. Currently, I stopped game programming and learning SwiftUI to make a vocacbulary notebook on iOS.
-
 ## My Plans (Completed Items Are Bolded)
 ### Learning New Programming Languages / APIs / Frameworks
 
@@ -26,10 +21,10 @@ I learned C first and now I think it was a smart choice since most programming l
   - make FreeBSD Single Unix Specifiction v4 2018 compatible
   - observe source codes of various operating systems(i.e Linux, illumos, BSD derivatives, old kernels, Minix 3, other microkernels, XNU
  - Game Programming
-  - learn game programming-related programming languages
+  - Programming Languages
    - **C++**
    - C#
-  - learn game programming-related APIs
+  - Game-related APIs
    - OpenGL
    - Vulkan
    - DirectX 11/12
@@ -41,7 +36,7 @@ I learned C first and now I think it was a smart choice since most programming l
    - SDL2
    - GLAUX
    - QT
-  - learn game engines
+  - Game Engines
    - Unreal Engine
    - Unity
    - Cryengine
@@ -52,15 +47,13 @@ I learned C first and now I think it was a smart choice since most programming l
 
 #### Goals of 2022
 - **update virtualization part of FreeBSD Handbook**
-- fix errors on FreeBSD doc
 - make my own SwiftUI App
-- fix FreeBSD kernel bugs
 - add features in Single Unix Specfiction v4 2018 to FreeBSD
 - improve FreeBSD Linuxulator to the latest version of linux kenel
-
-#### Goals of 2023
-- immplement things in FreeBSD Wiki Ideas page
+- Make my own mod using GoldSrc and Source.
 
 #### Other goals that will be conducted if I have enough time.
 - port Wayland to FreeBSD COMPLETELY
 - create a POSIX checking framework(maybe SUS 2018 is included)
+- fix errors on FreeBSD doc
+- fix FreeBSD kernel bugs
