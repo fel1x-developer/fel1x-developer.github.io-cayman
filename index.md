@@ -11,7 +11,7 @@ Programs should be updated to the latest version.
 - HTML/CSS
 - MySQL/MariaDB
 
-# My Plans (Completed Items Are Bolded)
+# My Plans
 ## Programming Languages
   - Zig
   - Go
@@ -31,6 +31,14 @@ Programs should be updated to the latest version.
   - Arm Assembly
   - MIPS Assembly
   - RISC-V Assembly
+  - Javascript
+  - PHP
+
+## Database
+  - MariaDB/MySQL
+  - PostgreSQL
+  - Redis
+  - MongoDB
 
 ## OS Programming
   - Improve linuxulator on FreeBSD
@@ -38,12 +46,35 @@ Programs should be updated to the latest version.
   - observe source codes of various operating systems(i.e Linux, illumos, BSD derivatives, old kernels, Minix 3, other microkernels, XNU)
 
 ## Graphics APIs
-   - OpenGL
-   - Vulkan
-   - DirectX 11/12
-   - Metal API
+  - OpenGL
+  - WebGL
+  - Vulkan
+  - WebGPU
+  - DirectX 11/12
+  - Metal API
 
 ## Game Engines
-   - Unreal Engine
-   - Unity
-   - Godot
+  - Unreal Engine
+  - Unity
+  - Godot
+  - RPG Maker
+  - Monogame
+  - liballegro
+  - Defold
+  - Half-Life SDK
+  - Source SDK
+  - GZDoom
+
+## Web Development
+  - React.js
+  - Next.js
+  - Vue.js
+  - Express.js
+  - Hugo
+  - ASP.NET
+  - Blazor
+  - Spring
+  - Ktor
+
+## DAW Plugin
+  - JUCE
