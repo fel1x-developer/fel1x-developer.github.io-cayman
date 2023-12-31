@@ -1,10 +1,8 @@
-# Minsoo Choo's Development Status
+I focus on **stability**, **security**, and **performance**.
 
-## Thoughts on Programming
- - I focus on **stability**, **security**, **performance**, and **convinence**.
- - I hate adwares. Instead, I prefer **paid apps** and **subscriptions**.
+Programs should be updated to the latest version.
 
-## List of My Programming Languages
+# List of My Programming Languages
 
 - C
 - C++
@@ -13,47 +11,39 @@
 - HTML/CSS
 - MySQL/MariaDB
 
-## My Plans (Completed Items Are Bolded)
-### Learning New Programming Languages / APIs / Frameworks
+# My Plans (Completed Items Are Bolded)
+## Programming Languages
+  - Zig
+  - Go
+  - Ruby
+  - Lua
+  - Perl
+  - Python
+  - Rust
+  - C#
+  - Kotlin
+  - Java
+  - Pascal
+  - Fortran
+  - Cobol
+  - F#
+  - x86-64 Assembly
+  - Arm Assembly
+  - MIPS Assembly
+  - RISC-V Assembly
 
- - OS Programming
-  - improve linuxulator on FreeBSD
+## OS Programming
+  - Improve linuxulator on FreeBSD
   - make FreeBSD Single Unix Specifiction v4 2018 compatible
-  - observe source codes of various operating systems(i.e Linux, illumos, BSD derivatives, old kernels, Minix 3, other microkernels, XNU
- - Game Programming
-  - Programming Languages
-   - **C++**
-   - C#
-  - Game-related APIs
+  - observe source codes of various operating systems(i.e Linux, illumos, BSD derivatives, old kernels, Minix 3, other microkernels, XNU)
+
+## Graphics APIs
    - OpenGL
    - Vulkan
    - DirectX 11/12
-   - GLFW
-   - GLUT
-   - FreeGLUT
-   - Windows API
-   - MFC
-   - SDL2
-   - GLAUX
-   - QT
-  - Game Engines
+   - Metal API
+
+## Game Engines
    - Unreal Engine
    - Unity
-   - Cryengine
-   - Open 3D Engine
-   - GoldSource / Source SDL
-
-### Making Products and Contributing to Open Source Projects
-
-#### Goals of 2022
-- **update virtualization part of FreeBSD Handbook**
-- make my own SwiftUI App
-- add features in Single Unix Specfiction v4 2018 to FreeBSD
-- improve FreeBSD Linuxulator to the latest version of linux kenel
-- Make my own mod using GoldSrc and Source.
-
-#### Other goals that will be conducted if I have enough time.
-- port Wayland to FreeBSD COMPLETELY
-- create a POSIX checking framework(maybe SUS 2018 is included)
-- fix errors on FreeBSD doc
-- fix FreeBSD kernel bugs
+   - Godot
