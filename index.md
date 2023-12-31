@@ -41,9 +41,15 @@ Programs should be updated to the latest version.
   - MongoDB
 
 ## OS Programming
-  - Improve linuxulator on FreeBSD
-  - make FreeBSD Single Unix Specifiction v4 2018 compatible
-  - observe source codes of various operating systems(i.e Linux, illumos, BSD derivatives, old kernels, Minix 3, other microkernels, XNU)
+  - FreeBSD
+  - Dragonfly BSD
+  - Linux
+  - illumos
+  - Minix 3
+  - XNU
+  - GNU Hurd/Mach
+  - Early BSD
+  - FreeRTOS
 
 ## Graphics APIs
   - OpenGL
